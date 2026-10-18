@@ -1,0 +1,9 @@
+test,stat,value,lo,hi,n,unit
+T0,"within-design rho(activity*width, power)",0.6974755165294179,0.6940635630456672,0.7009314962568469,16558,designs
+T0,"pooled rho(activity*width, power)",0.7259860955954291,,,696782,registers
+T0,"pooled rho(width alone, power)",0.4526473091772275,,,696782,registers
+T1,"pooled rho(d_activity, d_power)",0.6354275427306021,,,245636,registers
+T1,"per-pair mean rho(d_activity, d_power)",0.44606703958208077,0.43712752217231404,0.4547968227024363,6320,pairs
+T1,share of pairs with rho > 0,0.8936708860759494,,,6320,pairs
+T1,sign agreement d_act vs d_power,0.7585818039701021,,,245636,registers
+T2,"created-register rho(activity*width, power)",0.7007112210057713,,,400968,registers
