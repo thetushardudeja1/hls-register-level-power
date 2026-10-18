@@ -3,6 +3,12 @@
 **Authors:** Tushar Dudeja, Abhishek Narayan Tripathi, Vellore Institute of Technology (VIT)
 **Tools:** Siemens Catapult HLS, PowerPro, Questa (SAIF), Yosys / OpenROAD / OpenSTA, Python (scikit-learn, LightGBM)
 
+> **Publication status: under review at IEEE.** A manuscript reporting this work by Tushar Dudeja and Abhishek Narayan Tripathi has been submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)* and is currently under peer review.
+>
+> This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible.
+>
+> The figures, tables and summary results here are shared by the authors under IEEE's policy permitting authors to post their own work on a personal website or public repository. Please cite the published article once it appears; until then, contact the authors before reusing any material.
+
 High-level synthesis (HLS) directives such as loop unrolling and pipelining change a
 design's power, but a single number for that change hides *how* the design changed.
 This project looks one level down, at the registers: which registers a
